@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "scribble-wall-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "scribble-wall",
+			"database_id": "e704760f-7863-4bc6-af2c-fc81b34da476"
+		}
+	]
+}
